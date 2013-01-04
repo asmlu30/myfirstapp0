@@ -3,6 +3,9 @@
 
     <string name="app_name">My First App</string>
     <string name="hello_world">Hello world by Schmiddi !</string>
+    <string name="edit_message">Text eingeben</string>
+    <string name="button_send">Send</string>
     <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
 
 </resources>
